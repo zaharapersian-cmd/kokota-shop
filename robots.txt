@@ -1,0 +1,47 @@
+
+5. **این کد رو داخلش بذارید:**
+
+
+User-agent: *
+Allow: /
+Sitemap: https://zaharapersian-cmd.github.io/kokota-shop/sitemap.xml
+
+6. **پایین صفحه:**
+   - توی قسمت "Commit new file"
+   - یه توضیح بنویسید: `اضافه کردن فایل robots.txt`
+   - روی **"Commit new file"** کلیک کنید
+
+---
+
+## ✅ توضیح خطوط کد:
+
+
+User-agent: *
+👆 یعنی همه ربات‌های گوگل، بینگ و... مجاز هستند
+
+
+Allow: /
+👆 یعنی همه صفحات سایت قابل خزیدن (crawl) هستند
+
+
+Sitemap: https://zaharapersian-cmd.github.io/kokota-shop/sitemap.xml
+👆 آدرس sitemap شما (که مرحله بعد میسازیم)
+
+---
+
+## 📍 مرحله 2: چک کردن فایل
+
+بعد از آپلود، این لینک رو باز کنید:
+
+
+https://zaharapersian-cmd.github.io/kokota-shop/robots.txt
+
+اگه محتوای فایل نمایش داده شد، یعنی **موفق بودید!** ✅
+
+---
+
+## 🚀 بعدش چیکار کنیم؟
+
+حالا باید **فایل sitemap.xml** رو هم بسازیم!
+
+آماده‌اید؟ 😊
